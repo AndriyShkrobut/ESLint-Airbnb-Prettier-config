@@ -1,10 +1,4 @@
-<<<<<<< HEAD
 node_modules
 dist
 build
-=======
-node_modules
-dist
-build
->>>>>>> 3081eb4aab20582c759de926789b434e61b950f1
 **/*.min.js
